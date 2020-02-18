@@ -23,7 +23,8 @@ Este repositorio es para realizar el ejercicio **00 - GitFlow** por medio de la 
 3. Importar repo en repl.it desde github.
 4. Buscar el repo en el listado.
 5. Importarlo.
- 6. Crear un nuevo archivo llamado hola.txt en repl.it
+ 6. Crear una carpeta con tu nombre en repl.it
+ 6. Crear un nuevo archivo dentro de la carpeta con tu nombre, llama al archivo presentacion.txt en repl.it
  7. Contestar las siguientes preguntas dentro del archivo, ¿Cuál es tu nombre?
 ¿Donde trabajas o donde estudias?
 ¿Cuál es tu pasatiempo o Hobby?
