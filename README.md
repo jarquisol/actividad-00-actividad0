@@ -1,4 +1,4 @@
-# Aprende a programar desde Cero - 00
+# Aprende a programar
 
 Bienvenido al curso de introducción a la programación de Python, un curso impartido por **CODEV Hacker/School** ensenada donde se pretende adquirir los siguientes conceptos: 
 
